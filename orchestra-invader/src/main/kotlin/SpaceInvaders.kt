@@ -23,7 +23,7 @@ import ui.javafx.mvc.propertiesmvcextended.view.*
 fun main(args: Array<String>) {
     Application.launch(SpaceInvaders::class.java, *args)
 }
-// Used SwitchScenes sample code as starter
+
 class SpaceInvaders : Application() {
     val myModel = Model()
     val game = Game(myModel)

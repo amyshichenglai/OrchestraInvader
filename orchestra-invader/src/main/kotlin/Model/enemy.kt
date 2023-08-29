@@ -6,6 +6,7 @@ import javafx.scene.image.ImageView
 abstract class Enemies : ImageView() {
     var toright = true
 }
+
 class Enemy1() : Enemies() {
     init {
         fitWidth = ENEMY_WIDTH

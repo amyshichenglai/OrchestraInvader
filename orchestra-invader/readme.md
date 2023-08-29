@@ -1,5 +1,4 @@
 Amy Lai\
-20873644 s29lai\
 kotlinc-jvm 1.8.20 (jre 18.0.2)\
 macOS Ventura 13.3.1
 

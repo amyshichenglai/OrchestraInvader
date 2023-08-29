@@ -12,6 +12,7 @@ val fastinvader1 = AudioClip(Model::class.java.getResource("/sounds/fastinvader1
 val fastinvader2 = AudioClip(Model::class.java.getResource("/sounds/fastinvader2.wav").toString())
 val fastinvader3 = AudioClip(Model::class.java.getResource("/sounds/fastinvader3.wav").toString())
 val fastinvader4 = AudioClip(Model::class.java.getResource("/sounds/fastinvader4.wav").toString())
+
 class Model {
 
     val level = SimpleIntegerProperty(1)
